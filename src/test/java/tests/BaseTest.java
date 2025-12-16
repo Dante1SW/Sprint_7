@@ -1,3 +1,5 @@
+package tests;
+
 import constant.RestConfig;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
